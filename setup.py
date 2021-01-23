@@ -13,6 +13,7 @@ def curseu(target):
     comma = "fuck u, {}".format(target)
     return comma
 
+print('LOL')
 
 print(curseu("peter"))
 
