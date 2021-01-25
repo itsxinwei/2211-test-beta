@@ -17,5 +17,6 @@ print('LOL')
 
 print(curseu("peter"))
 
-# r = requests.get("https://vendiscover.com")
-# print(r.status_code)
+
+r = requests.get("https://vendiscover.com")
+print(r.status_code)
